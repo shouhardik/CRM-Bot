@@ -1,2 +1,2 @@
-# Solution for Ratna Nidhi Charitable Trust!
-## Proposed by Team 2: DataX
+ChatBot to input beneficiaries missing values
+
