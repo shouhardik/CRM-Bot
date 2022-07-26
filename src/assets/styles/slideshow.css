@@ -1,0 +1,15 @@
+.App {
+    /* height: 1000px; */
+    font-family: sans-serif;
+    text-align: center;
+  }
+
+  .slide-container {
+    margin-left: 5rem;
+    height: 500px;
+    width: 80%;
+  }
+
+  .introtext{
+    text-align: justify;
+  }
